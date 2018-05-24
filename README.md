@@ -1,4 +1,4 @@
-# uess-the-number
+# Guess-the-number
 Basic guessing game in python!
 
 Hey Folks!
